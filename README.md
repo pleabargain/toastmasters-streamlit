@@ -1,6 +1,11 @@
-# DIC2 Toastmasters Membership Form Application
+# source
+https://github.com/pleabargain/toastmasters-streamlit
 
-This Streamlit application provides a digital membership form for DIC2 Toastmasters Club.
+
+
+# Toastmasters Membership Form Application
+
+This Streamlit application provides a digital membership form for  Toastmasters Club.
 
 ## Features
 
